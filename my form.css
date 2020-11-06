@@ -1,0 +1,24 @@
+
+
+body{
+	
+	justify-content: center;
+	align-items: center;
+    background-image: url("https://media.giphy.com/media/OK5LK5zLFfdm/giphy.gif");
+    
+}
+.main-block{
+	display: block;
+	color: white;
+	align-items: center;
+	font-family: 'syne tactile' , cursive;
+    padding: 100px;
+    text-align: center;
+    font size: 50px;
+}
+.main{
+	color: white;
+	font-family: 'syne tactile' , cursive;
+	text-align: center;
+	font size: 30px;
+}
